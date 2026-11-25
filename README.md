@@ -1,11 +1,10 @@
-
-# Car Dealership Application
+# fullstack_developer_capstone
 
 ## Repository Name
-Full-stack-development-Capstone-project
+fullstack_developer_capstone
 
 ## Project Name
-Full Stack Development Capstone Project – Car Dealership Application
+fullstack_developer_capstone
 
 ## Project Description
 This project is a full-stack web application developed using Django and React. It provides functionality for displaying car dealerships, retrieving dealer information, viewing and submitting dealer reviews, and managing user authentication.
